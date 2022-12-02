@@ -1,6 +1,6 @@
 # World Cup Jersey Store front end built with ReactJS.
 
-[Source Files](https://github.com/ruperthnyagesoa/react-app-store) | [Live Demo](http://ruperthnyagesoa.github.io/react-app-store-demo)<hr />
+[Source Files](https://github.com/ruperthnyagesoa/react-app-store) | [Live Demo](https://world-cup-jersey-store.vercel.app-demo)<hr />
 
 This is a simple eCommerce store plus shopping cart interface built by taking advantage of the modular nature of ReactJS. The app displays a collection of shirts from different national soccer teams, each of them embedded in a [Bootstrap card](https://getbootstrap.com/docs/4.0/components/card/) and contained in a `<Product />` React component. Each product card has the functionality of adding (+) or decreasing (-) the number of shirts and features a button to add them to the shopping cart.  For a better user experience, the "Add To Cart" button text changes to "Added" for a few seconds, to reassure users that their selection has been in fact added to the shopping cart.
 
